@@ -1,69 +1,67 @@
-To-Do App
+📝 To-Do App
 
 A simple and modern To-Do List web application built with HTML, CSS, and JavaScript.
-The app allows users to add tasks, mark them as completed, and delete them when finished. All tasks are saved in localStorage, so they stay even after refreshing the page.
+This app helps users manage daily tasks by allowing them to add, complete, and delete tasks.
+All tasks are saved in localStorage, meaning your tasks remain even after refreshing the page.
 
-Features
+✨ Features
 
-Add new tasks
+➕ Add new tasks
 
-Mark tasks as completed using a checkbox
+✅ Mark tasks as completed using a checkbox
 
-Delete tasks
+🗑️ Delete tasks from the list
 
-Tasks are saved in the browser using localStorage
+💾 Tasks are automatically saved using localStorage
 
-Clean and responsive user interface
+🎨 Clean and responsive user interface
 
-Custom styled checkboxes and icons
+✔️ Custom styled checkboxes and icons
 
-Technologies Used
+🛠 Technologies Used
 
 HTML – Structure of the application
 
 CSS – Styling and layout
 
-JavaScript  – Functionality and task management
+JavaScript – Functionality and task management
 
-Local Storage – Saving tasks in the browser
+Local Storage  – Saving tasks in the browser
 
-Project Structure
+📁 Project Structure
 todo-app/
 │
 ├── index.html     # Main HTML file
 ├── style.css      # Styling for the app
 ├── app.js         # JavaScript functionality
 └── README.md      # Project documentation
-How to Use the App
-
-Open the application
+🚀 How to Use the App
+1. Open the Application
 
 Download or clone the project.
 
 Open the index.html file in your web browser.
 
-Add a task
+2. Add a Task
 
 Type a task in the input field.
 
 Press Enter or click the Add button.
 
-Mark a task as completed
+3. Mark a Task as Completed
 
 Click the checkbox next to the task.
 
 The task will be marked as completed.
 
-Delete a task
+4. Delete a Task
 
 Click the trash icon next to the task.
 
 The task will be removed from the list.
 
-Automatic saving
+5. Automatic Saving
 
 All tasks are automatically saved in your browser using localStorage.
 
 When you refresh the page, your tasks will still be there.
-
-
