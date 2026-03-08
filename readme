@@ -1,0 +1,69 @@
+To-Do App
+
+A simple and modern To-Do List web application built with HTML, CSS, and JavaScript.
+The app allows users to add tasks, mark them as completed, and delete them when finished. All tasks are saved in localStorage, so they stay even after refreshing the page.
+
+Features
+
+Add new tasks
+
+Mark tasks as completed using a checkbox
+
+Delete tasks
+
+Tasks are saved in the browser using localStorage
+
+Clean and responsive user interface
+
+Custom styled checkboxes and icons
+
+Technologies Used
+
+HTML – Structure of the application
+
+CSS – Styling and layout
+
+JavaScript  – Functionality and task management
+
+Local Storage – Saving tasks in the browser
+
+Project Structure
+todo-app/
+│
+├── index.html     # Main HTML file
+├── style.css      # Styling for the app
+├── app.js         # JavaScript functionality
+└── README.md      # Project documentation
+How to Use the App
+
+Open the application
+
+Download or clone the project.
+
+Open the index.html file in your web browser.
+
+Add a task
+
+Type a task in the input field.
+
+Press Enter or click the Add button.
+
+Mark a task as completed
+
+Click the checkbox next to the task.
+
+The task will be marked as completed.
+
+Delete a task
+
+Click the trash icon next to the task.
+
+The task will be removed from the list.
+
+Automatic saving
+
+All tasks are automatically saved in your browser using localStorage.
+
+When you refresh the page, your tasks will still be there.
+
+
